@@ -1,7 +1,7 @@
 // npm init -y
 //npm install
 //npm install express mongoose cors
-
+//add database name properly in mongoose.connect("mongodb://localhost:27017/cruddb")
 
 const express = require("express");
 const mongoose = require("mongoose");
