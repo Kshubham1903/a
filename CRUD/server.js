@@ -1,3 +1,8 @@
+// npm init -y
+//npm install
+//npm install express mongoose cors
+
+
 const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
